@@ -1,7 +1,17 @@
+#!/usr/bin/env python3
+
+#coments go here btw
+#https://github.com/naikthegamer100/the-jankulator-3000
+#i made a git hub
+#how do you turn an string into an iteger
+
+#string = int(string)
+
+
 print("      main menu")
 print("-------------------")
 print("¦0= calc          ¦")
-print("¦1= disclamers    ¦")
+print("¦1= disclaimers   ¦")
 print("¦2=exit           ¦")
 print("¦                 ¦")
 print("-------------------")
@@ -11,12 +21,13 @@ if menu == "0":
     print("welcome to the jankulator 300")
 
 elif menu == "1":
-    print("pree warning plewas do NOT use decimals.")
+    print("pree warning pleas do NOT use decimals.")
+    print (" do NOT * or / by 10,100,1000...")
     print(" ")
     print(" ")
     print(" ")
 
-#how do you turn an string into an iteger
+
 
 print("Enter first number")
 number = input()
